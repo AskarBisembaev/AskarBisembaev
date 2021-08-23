@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asksr
+- 👋 Hi, I’m @Askar
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on ...
