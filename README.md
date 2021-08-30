@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AskarBisembaev
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning `c#`
 
 <!---
 Asksr/Asksr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
